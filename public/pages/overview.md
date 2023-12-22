@@ -20,7 +20,7 @@ development of innovative software solutions.
 
 ## Education
 
-`2021-present` [Saintgits Colege of Engineering](https://saintgits.org/)
+`2021-present` [Saintgits College of Engineering](https://saintgits.org/)
 - **B-Tech** in Computer Science and Engineering
 
 `2019-2021` [Ansar English School](https://ansarschool.in/)
